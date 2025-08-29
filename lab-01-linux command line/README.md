@@ -27,20 +27,20 @@ In this lab, you will:
 
 ## Task2: Improve Workflow with History and Search
 
-history
-date   # Show current date
-!!     # Re-run the last command
+1. history
+2. date   # Show current date
+3. !!     # Re-run the last command
 
 ---
 
 ## Key Learnings
 
-whoami, hostname, and uptime → system basics
-who -H -a → see active users and session details
-TZ=<region> date → check time in different locations
-cal -j, cal -s, cal -m → work with calendars
-id <user> → check UID/GID/group memberships
-history, CTRL+R, !! → improve workflow and save time
+1. whoami, hostname, and uptime → system basics
+2. who -H -a → see active users and session details
+3. TZ=<region> date → check time in different locations
+4. cal -j, cal -s, cal -m → work with calendars
+5. id <user> → check UID/GID/group memberships
+6. history, CTRL+R, !! → improve workflow and save time
 
 ---
 
