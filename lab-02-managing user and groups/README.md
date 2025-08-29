@@ -19,6 +19,7 @@ Connect to an **Amazon Linux EC2 instance** using the provided key pair.
 
 ## Task 2: Create Users
 - Create users with default password P@ssword1234!.
+  
 | First Name | Last Name | User ID   | Job Role             |
 | ---------- | --------- | --------- | -------------------- |
 | Alejandro  | Rosalez   | arosalez  | Sales Manager        |
