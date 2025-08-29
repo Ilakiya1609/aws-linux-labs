@@ -12,16 +12,16 @@ In this lab, you will:
 
 ### Identify User and System Information  
 
-whoami        # Display current username
-hostname -s   # Show short hostname
-uptime -p     # Show system uptime in readable format
-who -H -a     # Show logged-in users and details
-TZ=America/New_York date
-TZ=America/Los_Angeles date
-cal -j   # Calendar with Julian dates
-cal -s   # Calendar starting on Sunday
-cal -m   # Calendar starting on Monday
-id ec2-user  # Show UID, GID, and group info
+1. whoami        # Display current username
+2. hostname -s   # Show short hostname
+3. uptime -p     # Show system uptime in readable format
+4. who -H -a     # Show logged-in users and details
+5. TZ=America/New_York date
+6. TZ=America/Los_Angeles date
+7. cal -j   # Calendar with Julian dates
+8. cal -s   # Calendar starting on Sunday
+9. cal -m   # Calendar starting on Monday
+10. id ec2-user  # Show UID, GID, and group info
 
 ---
 
