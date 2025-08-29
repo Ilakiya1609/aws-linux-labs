@@ -1,7 +1,7 @@
 #  Managing Users and Groups - Linux Lab
 
 ##  Objectives
-In this lab, you will:
+In this lab,
 - Create new users with a default password  
 - Create groups and assign users to the correct groups  
 - Log in as different users and test permissions   
