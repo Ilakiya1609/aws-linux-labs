@@ -48,5 +48,5 @@ In this lab, you will:
 - This lab used an Amazon EC2 t3.micro instance (1 vCPU, 1 GiB RAM) running Amazon Linux.
 
 --- 
-Author: Ilakiya Subramani
-Completed: July 2025
+- Author: Ilakiya Subramani
+- Completed: July 2025
